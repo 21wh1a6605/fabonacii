@@ -1,2 +1,2 @@
-# fabonacii
+# fibonacii
 Write a Python Program for Fibonacci numbers.
